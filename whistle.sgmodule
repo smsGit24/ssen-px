@@ -11,3 +11,4 @@ PROCESS-NAME,Microsoft Edge*,Dev-Whistle-local // Edge-Whistle代理
 PROCESS-NAME,企业微信*,Dev-Whistle-local
 PROCESS-NAME,Arc*,Dev-Whistle-local
 PROCESS-NAME,WebKit Networking*,Dev-Whistle-local
+DOMAIN-SUFFIX,*.dougongyun.com,Dev-Whistle-local
