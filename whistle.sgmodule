@@ -8,7 +8,5 @@ PROCESS-NAME,Google Chrome*,Dev-Whistle-local // Chrome-Whistle代理
 OR,((PROCESS-NAME,Safari*), (PROCESS-NAME,/Library/Apple/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking), (PROCESS-NAME,/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking)),Dev-Whistle-local
 PROCESS-NAME,firefox*,Dev-Whistle-local // FF-Whistle代理
 PROCESS-NAME,Microsoft Edge*,Dev-Whistle-local // Edge-Whistle代理
-PROCESS-NAME,企业微信*,Dev-Whistle-local
-PROCESS-NAME,Arc*,Dev-Whistle-local
-PROCESS-NAME,WebKit Networking*,Dev-Whistle-local
-OR,((PROCESS-NAME,WebKit Networking*), (PROCESS-NAME,/System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking)),Dev-Whistle-local
+PROCESS-NAME,Arc*,Dev-Whistle-local // Arc-Whistle代理
+OR,((PROCESS-NAME,WebKit Networking*), (PROCESS-NAME,/System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking)),Dev-Whistle-local // 钉钉-企微-Whistle代理
