@@ -9,5 +9,5 @@ OR,((PROCESS-NAME,Safari*), (PROCESS-NAME,/Library/Apple/System/Library/StagedFr
 PROCESS-NAME,firefox*,Dev-Whistle-local // FF-Whistle代理
 PROCESS-NAME,Microsoft Edge*,Dev-Whistle-local // Edge-Whistle代理
 PROCESS-NAME,企业微信*,Dev-Whistle-local
-PROCESS-NAME,钉钉*,Dev-Whistle-local
 PROCESS-NAME,Arc*,Dev-Whistle-local
+PROCESS-NAME,WebKit Networking*,Dev-Whistle-local
