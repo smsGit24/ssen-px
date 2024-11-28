@@ -1,5 +1,5 @@
 #!name=WhistleProxy
-#!desc=浏览器【Chrome,Safari】走Whistle代理，需要创建名称为Dev-Whistle-local的whistle代理节点
+#!desc=浏览器App进程走Whistle代理，需要创建名称为Dev-Whistle-local的whistle代理节点，并且该节点应该在规则最上方，防止先被surge其他规则污染
 #!category=开发
 #!system=mac
 
