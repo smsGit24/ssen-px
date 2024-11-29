@@ -5,4 +5,4 @@
 
 [Rule]
 # 解决开发调试-Whistle
-URL-REGEX,cdn\.dougongcloud\.com,Dev-Whistle-local
+URL-REGEX,cdn\.dougongcloud\.com\/wxwork\/,Dev-Whistle-local
