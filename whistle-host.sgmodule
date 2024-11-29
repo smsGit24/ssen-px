@@ -1,0 +1,8 @@
+#!name=WhistleProxy
+#!desc=浏览器App进程走Whistle代理，需要创建名称为Dev-Whistle-local的whistle代理节点
+#!category=开发
+#!system=mac
+
+[Rule]
+# 解决开发调试-Whistle
+URL-REGEX,cdn\.dougongcloud\.com,Dev-Whistle-local
