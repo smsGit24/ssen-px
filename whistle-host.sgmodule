@@ -1,4 +1,4 @@
-#!name=WhistleProxy
+#!name=HostWhistleProxy
 #!desc=浏览器App进程走Whistle代理，需要创建名称为Dev-Whistle-local的whistle代理节点
 #!category=开发
 #!system=mac
