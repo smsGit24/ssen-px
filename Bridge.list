@@ -1,2 +1,12 @@
+# ping0.cc
+DOMAIN-SUFFIX,ping0.cc
+
+# cursor
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+
+# docker
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
